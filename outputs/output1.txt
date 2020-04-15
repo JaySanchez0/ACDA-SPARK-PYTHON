@@ -1,0 +1,6 @@
+(u'IMPEACH', 135)
+(u'MAGA', 5722)
+(u'DICTATOR', 103)
+(u'CHANGE', 51)
+(u'TRUMP', 3704)
+(u'DRAIN', 32)
